@@ -2,8 +2,6 @@
 
 针对 `qbittorrent-nox@shoo.service` 的多实例脚本适配版。
 
-来源：[RinehartZ/seedbox-tools](https://github.com/RinehartZ/seedbox-tools/blob/main/Tools/more_qb.sh)。保留上游主体逻辑，只修改原服务文件路径、服务名称及相关提示。
-
 ## 适用环境
 
 - `/etc/systemd/system/qbittorrent-nox@.service` 存在。
